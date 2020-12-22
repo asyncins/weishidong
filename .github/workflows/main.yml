@@ -21,9 +21,9 @@ jobs:
     - name: DEPOLY
       uses: easingthemes/ssh-deploy@v2.1.5
       env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY_123_57_107_34 }}  # 服务器密钥
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY_123_57_107_34 }}  # 服务器私钥
           ARGS: '-rltgoDzvO --delete'
-          SOURCE: public  # 这是要复制到阿里云静态服务器的文件夹名称
-          REMOTE_HOST: ${{ secrets.VUEPRESSSERVER }} # 你的阿里云公网地址
+          SOURCE: public  # 这是要复制到云服务器的静态文件夹名称
+          REMOTE_HOST: ${{ secrets.VUEPRESSSERVER }} # 云服务器公网地址
           REMOTE_USER: ${{ secrets.VUEPRESS_USERNAME }} # 服务器用户名
-          TARGET: ${{ secrets.SSH_KEY_123_57_107_34 }} # 打包后的 dist 文件夹将放在此处
+          TARGET: ${{ secrets.VUEPRESS_DEPLOY_PATH }} # 打包后的文件夹将放在此处

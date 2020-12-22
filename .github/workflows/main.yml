@@ -1,0 +1,29 @@
+name: Vuepress CI
+on:
+  # 监听 PUSH 操作
+  push:
+    branches:
+      # MASTER 分支，也可以改成其他分支
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.16.2'
+    - name: INSTALL
+      run: npm install
+    - name: BUILD
+      run: npm run build
+    - name: DEPOLY
+      uses: easingthemes/ssh-deploy@v2.1.5
+      env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_KEY_123_57_107_34 }}  # 服务器密钥
+          ARGS: '-rltgoDzvO --delete'
+          SOURCE: dist  # 这是要复制到阿里云静态服务器的文件夹名称
+          REMOTE_HOST: ${{ secrets.VUEPRESSSERVER }} # 你的阿里云公网地址
+          REMOTE_USER: ${{ secrets.VUEPRESS_USERNAME }} # 服务器用户名
+          TARGET: ${{ secrets.SSH_KEY_123_57_107_34 }} # 打包后的 dist 文件夹将放在此处

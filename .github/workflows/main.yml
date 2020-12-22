@@ -3,8 +3,8 @@ on:
   # 监听 PUSH 操作
   push:
     branches:
-      # MASTER 分支，也可以改成其他分支
-      - master
+      # MAIN 分支，也可以改成其他分支
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest

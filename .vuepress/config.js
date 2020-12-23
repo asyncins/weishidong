@@ -91,16 +91,27 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
+        "title": "静觅丨崔庆才",
+        "desc": "崔庆才的个人站点",
+        "link": "https://cuiqingcai.com/"
       },
       {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
+        "title": "大鱼的鱼塘",
+        "desc": "一个总有收获的地方",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
+        "link": "https://brucedone.com/"
+      },
+      {
+        "title": "爬虫安全论坛",
+        "desc": "爬虫工程师聚集的地方",
+        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "link": "http://bbs.nightteam.cn/"
+      },
+      {
+        "title": "分布式爬虫管理平台",
+        "desc": "支持水平扩展且兼容多语言",
+        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "link": "https://www.crawlab.cn/"
       }
     ],
     "logo": "/logo.png",
@@ -109,7 +120,8 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    "record": "桂ICP备15007024号-5",
+    "recordLink": "https://beian.miit.gov.cn/",
     "startYear": "公元前二百年"
   },
   "markdown": {

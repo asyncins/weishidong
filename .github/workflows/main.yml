@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: Ubuntu-20.04
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v1
     - name: Install Node.js
       uses: actions/setup-node@v1
       with:
@@ -24,6 +24,6 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.VUEPRESS_SERVER_PRI_KEY }}  # 服务器密钥
           ARGS: '-rltgoDzvO --delete'
           SOURCE: public  # 将要复制到云服务器的静态文件夹
-          REMOTE_HOST: ${{ secrets.VUEPRESSSERVER }} # 云服务器公网地址
-          REMOTE_USER: ${{ secrets.VUEPRESS_USERNAME }} # 服务器用户名
-          TARGET: ${{ secrets.VUEPRESS_DEPLOY_PATH }} # 打包后的文件夹将放在此处
+          REMOTE_HOST: $123.57.107.34 # 云服务器公网地址
+          REMOTE_USER: root # 服务器用户名
+          TARGET: /root/zhuanlan # 打包后的文件夹将放在此处

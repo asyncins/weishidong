@@ -112,6 +112,12 @@ module.exports = {
         "desc": "支持水平扩展且兼容多语言",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://www.crawlab.cn/"
+      },
+      {
+        "title": "谢乾坤丨青南 Kingname",
+        "desc": "谢乾坤的个人站点",
+        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "link": "http://www.kingname.info/"
       }
     ],
     "logo": "/logo.png",

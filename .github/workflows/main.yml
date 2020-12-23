@@ -7,7 +7,7 @@ on:
       - main
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-20.04
     steps:
     - uses: actions/checkout@v2
     - name: Install Node.js

@@ -22,7 +22,6 @@ jobs:
       uses: easingthemes/ssh-deploy@v2.1.5
       env:
           SSH_PRIVATE_KEY: ${{ secrets.VUEPRESS_SERVER_PRI_KEY }}  # 密钥
-          ARGS: '-rltgoDzvO --delete'
           SOURCE: public  # 将要复制到云服务器的静态文件夹
           REMOTE_HOST: 123.57.107.34 # 云服务器公网地址
           REMOTE_USER: root # 服务器用户名

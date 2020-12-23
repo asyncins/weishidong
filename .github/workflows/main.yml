@@ -22,7 +22,7 @@ jobs:
       uses: easingthemes/ssh-deploy@v2.1.5
       env:
           SSH_PRIVATE_KEY: ${{ secrets.VUEPRESS_SERVER_PRI_KEY }}  # 服务器私钥
-          ARGS: '-rltgoDzv --delete'
+          ARGS: '-rltgoDzv0 --delete'
           SOURCE: public  # 将要复制到云服务器的静态文件夹
           REMOTE_HOST: ${{ secrets.VUEPRESSSERVER }} # 云服务器公网地址
           REMOTE_USER: ${{ secrets.VUEPRESS_USERNAME }} # 服务器用户名

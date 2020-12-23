@@ -26,4 +26,4 @@ jobs:
           SOURCE: "public/ " # 将要复制到云服务器的静态文件夹
           REMOTE_HOST: "123.57.107.34" # 云服务器公网地址
           REMOTE_USER: "root" # 服务器用户名
-          # TARGET: "/root/zhuanlan/" # 打包后的文件夹将放在目录
+          TARGET: "/root/zhuanlan/" # 打包后的文件夹将放在目录

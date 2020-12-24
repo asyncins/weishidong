@@ -137,5 +137,16 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  "plugins": {
+    '@vssue/vuepress-plugin-vssue': {
+      // 设置 `platform` 而不是 `api`
+      "platform": 'github',
+      // 其他的 Vssue 配置
+      "owner": 'asyncins@aliyun.com',
+      "repo": 'weishidong_comment',
+      "clientId": '8de6d2b7024b12c5049f',
+      "clientSecret": '8f661386c19efd3fe9c9e5d8036ee637a33d189d',
+    },
+  },
 }

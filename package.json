@@ -4,10 +4,11 @@
   "author": "reco_luan",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "build": "node ./builds/addComponents.js && vuepress build docs && node ./builds/delComponents.js &&  vuepress build ."
   },
   "devDependencies": {
     "vuepress": "1.5.4",
+    "vuepress-plugin-comment": "^0.7.3",
     "vuepress-theme-reco": "1.5.7"
   },
   "dependencies": {

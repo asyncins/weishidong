@@ -2,6 +2,7 @@ module.exports = {
   "title": "韦世东的技术日志",
   "description": "",
   "dest": "public",
+  
   "head": [
     [
       "link",
@@ -11,7 +12,7 @@ module.exports = {
       },
       "script",
       {
-        "src": "https://s9.cnzz.com/z_stat.php?id=1279557135&web_id=1279557135"
+        src: "https://s9.cnzz.com/z_stat.php?id=1279557135&web_id=1279557135"
       }
     ],
     [

@@ -8,6 +8,10 @@ module.exports = {
       {
         "rel": "icon",
         "href": "/favicon.ico"
+      },
+      "script",
+      {
+        "src": "https://s9.cnzz.com/z_stat.php?id=1279557135&web_id=1279557135"
       }
     ],
     [

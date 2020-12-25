@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "vuepress": "1.5.4",
-    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-comment": "^0.5.1",
     "vuepress-theme-reco": "1.5.7"
   },
   "dependencies": {

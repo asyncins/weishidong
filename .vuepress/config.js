@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "韦世东的技术日志-Python|Golang|Rust|Kubernetes|高性能|分布式|爬虫|架构|Python编程参考",
+  "title": "韦世东的技术日志|Python编程参考",
   "description": "Python|Golang|Rust|Kubernetes|高性能|分布式|爬虫|架构|Python编程参考",
   "dest": "public",
   
@@ -20,6 +20,10 @@ module.exports = {
       {
         "name": "viewport",
         "content": "width=device-width,initial-scale=1,user-scalable=no"
+      },
+      {
+        "name": "keywords",
+        "content": "Python,Golang,Rust,Kubernetes,高性能,分布式,爬虫,架构,Python编程参考,软件工程,高可用"
       }
     ]
   ],

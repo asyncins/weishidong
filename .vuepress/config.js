@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "韦世东的技术日志",
-  "description": "",
+  "title": "韦世东的技术日志-Python|Golang|Rust|Kubernetes|高性能|分布式|爬虫|架构|Python编程参考",
+  "description": "Python|Golang|Rust|Kubernetes|高性能|分布式|爬虫|架构|Python编程参考",
   "dest": "public",
   
   "head": [
@@ -145,4 +145,10 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   },
-}
+  "plugins": 
+      ['sitemap', {
+        hostname: "https://www.weishidong.com",
+        exclude: ["/404.html"],
+      },
+  ]
+};

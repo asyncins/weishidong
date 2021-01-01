@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "vuepress": "1.5.4",
+    "vuepress-plugin-autometa": "^0.1.13",
     "vuepress-plugin-comment": "^0.5.1",
     "vuepress-theme-reco": "1.5.7"
   },
@@ -15,7 +16,8 @@
     "@vssue/api-github-v3": "^1.4.4",
     "@vssue/vuepress-plugin-vssue": "^1.4.6",
     "batch": "^0.6.1",
-    "vue-class-component": "^7.2.3"
+    "vue-class-component": "^7.2.3",
+    "vuepress-plugin-sitemap": "^2.3.1"
   },
   "description": ""
 }

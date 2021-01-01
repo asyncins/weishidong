@@ -21,6 +21,7 @@ module.exports = {
         "name": "viewport",
         "content": "width=device-width,initial-scale=1,user-scalable=no"
       },
+      "meta",
       {
         "name": "keywords",
         "content": "Python,Golang,Rust,Kubernetes,高性能,分布式,爬虫,架构,Python编程参考,软件工程,高可用"
@@ -147,12 +148,27 @@ module.exports = {
     "startYear": "公元前二百年"
   },
   "markdown": {
-    "lineNumbers": true
+    "lineNumbers": true,
+    "externalLinks": {
+      target: "_blank",
+      rel: "nofollow noopener noreferrer"
+    }
   },
-  "plugins": 
-      ['sitemap', {
-        hostname: "https://www.weishidong.com",
-        exclude: ["/404.html"],
-      },
-  ]
+  "plugins": {
+    "robots": {
+      "host": "http://www.weishidong.com",
+      "allowAll": true,
+      "disallowAll": false,
+      "sitemap": "/sitemap.xml",
+      "policies": [
+        {
+          "userAgent": "*"
+        }
+      ]
+    },
+    'vuepress-plugin-baidu-autopush': {},
+    'sitemap': {
+      hostname: "http://www.weishidong.com"
+    }
+  },
 };

@@ -12,7 +12,7 @@ tagline: 寸则王之寸 尺亦王之尺
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: '300px'
 }
 isShowTitleInHome: false
 # actionText: Guide

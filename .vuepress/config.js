@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "韦世东的技术日志|Python编程参考",
+  "title": "韦世东的技术日志|Python编程参考官方首发在线阅读",
   "description": "Python|Golang|Rust|Kubernetes|高性能|分布式|爬虫|架构|Python编程参考",
   "dest": "public",
   

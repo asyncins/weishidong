@@ -44,6 +44,11 @@ module.exports = {
         "icon": "reco-home"
       },
       {
+        "text": "电子书编程参考",
+        "link": "/docs/cankao/",
+        "icon": "reco-date"
+      },
+      {
         "text": "技术专栏",
         "icon": "reco-message",
         "items": [

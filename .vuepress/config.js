@@ -46,7 +46,7 @@ module.exports = {
       {
         "text": "电子书编程参考",
         "link": "/docs/cankao/",
-        "icon": "reco-date"
+        "icon": "reco-blog"
       },
       {
         "text": "技术专栏",
@@ -61,12 +61,12 @@ module.exports = {
       {
         "text": "时间线",
         "link": "/timeline/",
-        "icon": "reco-date"
+        "icon": "reco-suggestion"
       },
       {
         "text": "韦世东",
         "link": "/blogs/about/",
-        "icon": "reco-date"
+        "icon": "reco-api"
       },
       {
         "text": "出版图书",
@@ -161,7 +161,7 @@ module.exports = {
   },
   "plugins": {
     "robots": {
-      "host": "http://www.weishidong.com",
+      "host": "https://www.weishidong.com",
       "allowAll": true,
       "disallowAll": false,
       "sitemap": "/sitemap.xml",
@@ -173,7 +173,7 @@ module.exports = {
     },
     'vuepress-plugin-baidu-autopush': {},
     'sitemap': {
-      hostname: "http://www.weishidong.com"
+      hostname: "https://www.weishidong.com"
     }
   },
 };

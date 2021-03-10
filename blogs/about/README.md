@@ -18,7 +18,7 @@ sidebar: false
 
 ### 出版作品
 
-![Python3 反爬虫原理与绕过实战](/.vuepress/public/double-book.png)
+![Python3 反爬虫原理与绕过实战](https://img.weishidong.com/double-book.png)
 
 [《Python3 网络爬虫宝典 - 点击跳转到京东](https://item.jd.com/12962196.html)
 
@@ -26,26 +26,25 @@ sidebar: false
 
 ### 兴趣方向
 
-- Python
-- Golang
-- ​爬虫
-- 分布式服务
-- 消息队列
-- 架构
+- 编程语言 Python/Golang/Rust
+- 职业领域 爬虫/存储引擎/消息中间件
+- 兴趣方向 分布式服务/系统架构/用户运营
 
 ### 读过的书
 
 - 《Kafka 权威指南》
+- 《Rabbit 权威指南》
 - 《从零开始学架构》
 - 《HTTP 权威指南》
 - 《图解密码技术》
 - 《系统架构设计》
 - 《UML 基础、案例与应用》
+- 《代码整洁之道》
 - 《运营之光》
 - 《餐饮投资运营》
+- 《系统架构设计师教程》架构设计师考试指定用书
 
-### 直播日志
-
+### 在线直播回放
 
 ::: tip
 - [手把手教你阅读 Python 源码的最佳实战技巧](https://appycyfaqcq1951.h5.xiaoeknow.com/v1/course/alive/l_5e4e198ca4cc7_JPKcgrs8?type=2&app_id=appycYFaqcq1951&is_redirect=1)-分享 Python 开源项目的选择以及源码阅读和代码调试的经验
@@ -58,6 +57,8 @@ sidebar: false
 
 
 - [爬虫工程师养成指南](https://appycyfaqcq1951.h5.xiaoeknow.com/v1/course/alive/l_5e1d837543bfa_D0jGfEsm?type=2&app_id=appycYFaqcq1951&is_redirect=1)-如何规划你的职业成长路径
+
+- [跟着做，就能写出好代码](https://bbs.huaweicloud.com/live/HDZ_live/202103101900.html)-抛弃那些烂代码吧
 
 :::
 

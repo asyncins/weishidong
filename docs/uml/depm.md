@@ -4,6 +4,9 @@ date: 2020-07-20
 tags:
  - 部署图
  - UML
+sidebar: 'auto'
+categories:
+ - 实用技能
 ---
 
 

@@ -18,6 +18,8 @@ sidebar: false
 
 ### 出版作品
 
+![](https://img.weishidong.com/double-book.png)
+
 [《Python3 网络爬虫宝典》 - 点击跳转到京东](https://item.jd.com/12962196.html)
 
 [《Python3 反爬虫原理与绕过实战》- 点击跳转到京东](https://item.jd.com/12794078.html)

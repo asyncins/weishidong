@@ -4,6 +4,10 @@ date: 2020-07-20
 tags:
  - 包图
  - UML
+
+sidebar: 'auto'
+categories:
+ - 实用技能
 ---
 
 

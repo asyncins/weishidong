@@ -1,12 +1,11 @@
 ---
-title: 地泽万物｜无限极分类树状结构生成算法
-sidebar: 'auto'
+title: 地泽万物，无限极分类树状结构生成算法
 date: 2021-03-11
 tags:
  - 计算机基础
 
 categories:
- - 实用技能
+ - 编程参考
 ---
 后端研发的同学对无限级分类肯定映像深刻，当初花了不少时间吧？
 
@@ -17,7 +16,7 @@ categories:
 
 首先，确保数据库中存储的类别信息如下：
 
-```
+```python
 [
     {"id": 1, "name": '电器', "parent": 0},
     {"id": 2, "name": '水果', "parent": 0},
@@ -39,7 +38,7 @@ categories:
 
 通过 parent 寻找父编号，并建立关联关系的操作实际上是循环往复的，直到找完所有的结点，这跟递归算法非常契合，很轻松便能写出对应的递归代码：
 
-```
+```python
 def generate_tree(source, parent):
     tree = []
     for item in source:
@@ -51,7 +50,7 @@ def generate_tree(source, parent):
 
 只需要将数据库中存储的信息传递给 generate_tree 函数即可。这段递归代码在往复循环的过程中通过 parent 来寻找子结点，找到子结点后将其添加到树中。完整代码如下：
 
-```
+```python
 import json
 
 
@@ -93,7 +92,7 @@ if __name__ == '__main__':
 
 基本思路是每次找到结点关系后将此条目的编号添加到一个列表中缓存起来，代表此条目已找到结点关系。当往复循环执行函数时再次遇到此条目可以跳过。代码改动很简单，增加一个缓存列表和控制流语句即可：
 
-```
+```python
 def generate_tree(source, parent, cache=[]):
     tree = []
     for item in source:

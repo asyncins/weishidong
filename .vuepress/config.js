@@ -44,17 +44,16 @@ module.exports = {
         "icon": "reco-home"
       },
       {
-        "text": "电子书编程参考",
-        "link": "/docs/cankao/",
-        "icon": "reco-blog"
-      },
-      {
         "text": "技术专栏",
         "icon": "reco-message",
         "items": [
           {
             "text": "工程师绘图技",
             "link": "/docs/uml/"
+          },
+          {
+            "text": "电子书编程参考",
+            "link": "/docs/cankao/"
           }
         ]
       },
@@ -86,6 +85,7 @@ module.exports = {
       }
     ],
     "sidebar": {
+      "sidebarDepth": 2,
       "/docs/uml/": [
         "",
         "draw",
@@ -98,6 +98,32 @@ module.exports = {
         "component",
         "depm",
         "package",
+      ],
+      "/docs/cankao/": [
+        "",
+        "preface",
+        "name_and_style",
+        "notes",
+        "design_write_excellent_code",
+        "draw",
+        "python_concurrent",
+        "single_linked_list",
+        "sorting",
+        "brinary_search",
+        "recursion",
+        "binary_tree",
+        "node_tree",
+        "redis_distributed_lock",
+        "snowflake",
+        "code_style_reference",
+        "python_code_style_reference",
+        "requirements_docs",
+        "project_management_reference",
+        "code_review_reference",
+        "project_deploy_reference",
+        "notice_reference",
+        "meeting_reference",
+        "kanwu",
       ]
     },
     "type": "blog",

@@ -8,6 +8,9 @@ tags:
  - 流式处理
  - 分层架构
  - 配色知识
+sidebar: 'auto'
+categories:
+ - 实用技能
 ---
 
 

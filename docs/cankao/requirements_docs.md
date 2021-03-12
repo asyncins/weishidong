@@ -31,7 +31,7 @@ categories:
 
 
 
-![](http://img.weishidong.com/image-20210218123618756.png)
+![](https://img.weishidong.com/image-20210218123618756.png)
 
 为了方便大家理解，文档选用不同颜色来帮助我们区分阶段，其中：
 
@@ -138,7 +138,7 @@ categories:
 
 实际上工作中总是会用到各式各样的管理工具，工具可以很好地帮助我们关联文档、汇总信息。例如一个编号为 TK2020120101 的需求完成后，后续又**衍生**出**针对它的维护类需求** TK2021010103 时，可以将维护类需求 TK2021010103 与 TK2020120101 **关联**起来，这样在管理需求文档的时候就能够直观地看到**需求之间的关系和变化**，具体如下图所示。
 
-![](http://img.weishidong.com/xuqiuguanxi-image.png)
+![](https://img.weishidong.com/xuqiuguanxi-image.png)
 
 > 实际工作中大概率会用到管理工具，工具可以提高我们的效率，便于我们管理事件，借助工具是非常好的选择
 
@@ -166,13 +166,13 @@ categories:
 
 虽然上面提供了一份基础模板，但是有一些读者可能还不太明白在实际使用的时候应该如何编写。下面以实际的工作需求给出一份实例参考。
 
-![](http://img.weishidong.com/image-20210218123840899.png)
+![](https://img.weishidong.com/image-20210218123840899.png)
 
-![](http://img.weishidong.com/image-20210218123905723.png)
+![](https://img.weishidong.com/image-20210218123905723.png)
 
-![](http://img.weishidong.com/image-20210218123926700.png)
+![](https://img.weishidong.com/image-20210218123926700.png)
 
-![](http://img.weishidong.com/image-20210218123941407.png)
+![](https://img.weishidong.com/image-20210218123941407.png)
 
 阅读并吸收上面的知识后，想必聪明的你对整个需求文档的构成、设计考量和具体实践有了一定的认知，现在已经能够很好地梳理、组织需求文档了。这里作者再帮助诸位整理一下需求文档的一些细节。
 

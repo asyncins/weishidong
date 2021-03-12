@@ -9,11 +9,18 @@ module.exports = {
       {
         "rel": "icon",
         "href": "/favicon.ico"
-      },
-      "script",
-      {
-        src: "https://s9.cnzz.com/z_stat.php?id=1279557135&web_id=1279557135"
       }
+    ],
+    [
+      "script",
+      {},
+      `var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?da0551fff25855afa78b47c89ec2896c";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();`
     ],
     [
       "meta",

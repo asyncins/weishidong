@@ -2,7 +2,6 @@ module.exports = {
   "title": "韦世东的技术专栏",
   "description": "Python 编程参考官方专栏，专注于体系化 IT 技术知识分享，内容涵盖Python|Golang|Rust|Kubernetes|高性能|分布式|爬虫|架构|逆向",
   "dest": "public",
-  "permalink": "/:year/:month/:day/:slug",
   "head": [
     [
       "link",

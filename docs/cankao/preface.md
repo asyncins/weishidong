@@ -5,8 +5,6 @@ date: 2021-03-12
 tags:
 - Python 编程参考
 
-categories:
- - 编程参考
 ---
 
 > 使用快捷键 Ctrl+D 或 Command+D 可快速收藏本技术专栏 收获爬虫架构/爬虫逆向/存储引擎/消息队列/Python/Golang相关知识

@@ -44,7 +44,7 @@ categories:
 没错，流程并不复杂。
 
 
-> 版权水印 - 韦世东的技术专栏 http://www.weishidong.com
+> 版权水印 - 韦世东的技术专栏 https://www.weishidong.com
 
 
 

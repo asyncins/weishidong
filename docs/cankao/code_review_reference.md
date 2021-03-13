@@ -48,7 +48,7 @@ categories:
 **不可靠的服务**：没有监控、没有细致的日志记录、没有应对超额流量的方案……
 
 
-> 版权水印 - 韦世东的技术专栏 http://www.weishidong.com
+> 版权水印 - 韦世东的技术专栏 https://www.weishidong.com
 
 
 

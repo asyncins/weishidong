@@ -1,9 +1,10 @@
 ---
 title: 二叉树前序遍历/中序遍历/后序遍历实现
 sidebar: 'auto'
-date: 2021-03-15
+date: 2021-02-15
 tags:
 - Python 编程参考
+- 算法
 
 categories:
  - 编程参考

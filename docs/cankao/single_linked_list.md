@@ -1,8 +1,11 @@
 ---
 title: 单链表反转实现
+sidebar: 'auto'
 date: 2021-03-07
 tags:
 - Python 编程参考
+- 算法
+- Python
 
 categories:
  - 编程参考

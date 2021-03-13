@@ -1,6 +1,7 @@
 ---
 title: 命名选择与风格指南
-date: 2021-03-12
+sidebar: 'auto'
+date: 2021-02-21
 tags:
 - Python 编程参考
 

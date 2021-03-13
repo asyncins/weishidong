@@ -1,8 +1,10 @@
 ---
 title: 线上故障通知流程指引与落地实施
-date: 2021-03-12
+sidebar: 'auto'
+date: 2021-01-12
 tags:
 - Python 编程参考
+- 实用技能
 
 categories:
  - 编程参考

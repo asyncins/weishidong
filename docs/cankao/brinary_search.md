@@ -1,8 +1,10 @@
 ---
 title: 二分查找算法的原理与具体实现
-date: 2021-03-15
+sidebar: 'auto'
+date: 2021-02-10
 tags:
 - Python 编程参考
+- 算法
 
 categories:
  - 编程参考

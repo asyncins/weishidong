@@ -1,8 +1,10 @@
 ---
 title: 递归算法的原理与代码实现
+sidebar: 'auto'
 date: 2021-03-12
 tags:
 - Python 编程参考
+- 算法
 
 categories:
  - 编程参考

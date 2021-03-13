@@ -1,8 +1,11 @@
 ---
 title: Python 编程风格指南
+sidebar: 'auto'
 date: 2021-03-12
 tags:
 - Python 编程参考
+- Python
+- 指南
 
 categories:
  - 编程参考

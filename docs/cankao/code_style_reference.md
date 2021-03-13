@@ -1,6 +1,7 @@
 ---
 title: Python 开发团队编码规范参考
-date: 2021-03-12
+sidebar: 'auto'
+date: 2021-02-05
 tags:
 - Python 编程参考
 

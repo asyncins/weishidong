@@ -1,9 +1,13 @@
 ---
 title: 工程师绘图指南
+sidebar: 'auto'
 date: 2021-01-15
 tags:
 - Python 编程参考
+- 实用技能
 
+categories:
+ - 严选知识
 ---
 
 工程师绘图指南收录在《Python 编程参考中》，在技术专栏中是拆分放置的。点击即可跳转到[工程师绘图指南](https://www.weishidong.com/docs/uml/)页面。

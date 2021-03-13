@@ -1,8 +1,11 @@
 ---
 title: Python 并发编程基本操作
+sidebar: 'auto'
 date: 2021-03-12
 tags:
 - Python 编程参考
+- Python
+- 并发
 
 categories:
  - 编程参考

@@ -1,5 +1,6 @@
 ---
 title: 前言与版权声明
+sidebar: 'auto'
 date: 2021-03-12
 tags:
 - Python 编程参考

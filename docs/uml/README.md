@@ -1,5 +1,6 @@
 ---
 title: 程序设计的基石 UML
+sidebar: 'auto'
 date: 2020-07-21
 tags:
  - 时序图

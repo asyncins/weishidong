@@ -1,9 +1,11 @@
 ---
 title: 地泽万物，无限极分类树状结构生成算法
+sidebar: 'auto'
 date: 2021-03-11
 tags:
- - 计算机基础
-
+ - 算法
+ - Python
+ - Python 编程参考
 categories:
  - 编程参考
 ---

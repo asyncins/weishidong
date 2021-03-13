@@ -1,11 +1,16 @@
 ---
 title: 基于 Redis 的分布式锁实现
-date: 2021-03-12
+sidebar: 'auto'
+date: 2021-03-01
 tags:
 - Python 编程参考
+- 实用技能
+- Python
+- Redis
 
 categories:
  - 编程参考
+ - 实用技能
 ---
 
 

@@ -1,8 +1,10 @@
 ---
 title: 项目进度管理参考
+sidebar: 'auto'
 date: 2021-03-12
 tags:
 - Python 编程参考
+- 实用技能
 
 categories:
  - 编程参考

@@ -1,9 +1,11 @@
 ---
 title: 技术需求文档，应当这么写！
 sidebar: 'auto'
+sidebar: 'auto'
 date: 2021-02-18
 tags:
 - 需求文档
+- 实用技能
 
 categories:
  - 编程参考

@@ -1,8 +1,11 @@
 ---
 title: 重要排序算法的原理与代码实现
-date: 2021-03-15
+sidebar: 'auto'
+date: 2021-02-18
 tags:
 - Python 编程参考
+- 算法
+- Python
 
 categories:
  - 编程参考

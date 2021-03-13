@@ -11,6 +11,10 @@ categories:
  - 编程参考
 ---
 
+> 使用快捷键 Ctrl+D 或 Command+D 可快速收藏本技术专栏 收获爬虫架构/爬虫逆向/存储引擎/消息队列/Python/Golang相关知识
+
+
+
 Python 开发团队为开发者们编写了一份编程风格指南——[《Style Guide for Python Code》](https://www.python.org/dev/peps/pep-0008/)，这就是业内工程师口口相传的 PEP8 编程规范。这份风格指南里面提供了非常明确的代码案例，因此它也一直作为 Python 开发者甚至是开发团队或者公司的代码规范参考。这里挑选一些重要或者具有代表性的内容进行翻译或转述，同时也鼓励大家前往 Python 文档查看原文。
 
 

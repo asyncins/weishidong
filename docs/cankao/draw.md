@@ -6,9 +6,11 @@ tags:
 - Python 编程参考
 - 实用技能
 
-categories:
- - 严选知识
 ---
+
+> 使用快捷键 Ctrl+D 或 Command+D 可快速收藏本技术专栏 收获爬虫架构/爬虫逆向/存储引擎/消息队列/Python/Golang相关知识
+
+
 
 工程师绘图指南收录在《Python 编程参考中》，在技术专栏中是拆分放置的。点击即可跳转到[工程师绘图指南](https://www.weishidong.com/docs/uml/)页面。
 

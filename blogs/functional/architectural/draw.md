@@ -12,7 +12,11 @@ tags:
 
 categories:
  - 架构设计
+ - 严选知识
 ---
+
+> 使用快捷键 Ctrl+D 或 Command+D 可快速收藏本技术专栏 收获爬虫架构/爬虫逆向/存储引擎/消息队列/Python/Golang相关知识
+
 
 点击前往 [工程师绘图与设计实践指南专栏](https://www.weishidong.com/docs/uml/) 
 

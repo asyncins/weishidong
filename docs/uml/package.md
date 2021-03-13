@@ -1,14 +1,15 @@
 ---
 title: 包图 Package
+sidebar: 'auto'
 date: 2020-07-20
 tags:
- - 包图
- - UML
+ - 绘图指南
 
-sidebar: 'auto'
 categories:
  - 实用技能
 ---
+
+> 使用快捷键 Ctrl+D 或 Command+D 可快速收藏本技术专栏 收获爬虫架构/爬虫逆向/存储引擎/消息队列/Python/Golang相关知识
 
 
 

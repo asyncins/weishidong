@@ -183,7 +183,7 @@ module.exports = {
     "authorAvatar": "/avatar.png",
     "record": "桂ICP备15007024号-5",
     "recordLink": "https://beian.miit.gov.cn/",
-    "startYear": "公元前二百年"
+    "startYear": "公元前二百年 秦"
   },
   "markdown": {
     "lineNumbers": true,

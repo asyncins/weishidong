@@ -58,7 +58,7 @@ sidebar: false
 
 - [爬虫工程师养成指南](https://appycyfaqcq1951.h5.xiaoeknow.com/v1/course/alive/l_5e1d837543bfa_D0jGfEsm?type=2&app_id=appycYFaqcq1951&is_redirect=1)-如何规划你的职业成长路径
 
-- [跟着做，就能写出好代码](https://bbs.huaweicloud.com/live/HDZ_live/202103101900.html)-抛弃那些烂代码吧
+- [跟着做，就能写出好代码](https://bbs.huaweicloud.com/live/HDZ_live/202103101900.html?ticket=ST-446580-LWqxUCXHSfJIRbyADee7ypNl-sso)-抛弃那些烂代码吧
 
 :::
 
